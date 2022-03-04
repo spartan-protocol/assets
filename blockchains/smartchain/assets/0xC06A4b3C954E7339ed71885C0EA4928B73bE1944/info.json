@@ -1,0 +1,11 @@
+{
+  "name": "Universe Finance Token",
+  "website": "https://www.universe.finance/",
+  "description": "Universe Finance is an active liquidity management platform of Uniswap V3 based on risk ranking and quantitative strategies.",
+  "explorer": "https://bscscan.com/token/0xC06A4b3C954E7339ed71885C0EA4928B73bE1944",
+  "type": "BEP20",
+  "symbol": "UNT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xC06A4b3C954E7339ed71885C0EA4928B73bE1944"
+}
