@@ -5,5 +5,7 @@
   "explorer": "https://bscscan.com/token/0x922722E9Ef614EC9A3E94b78496e92AbFBb5A624",
   "type": "BEP20",
   "symbol": "CAPO",
-  "decimals": 18
+  "decimals": 18,
+  "status": "active",
+  "id": "0x922722E9Ef614EC9A3E94b78496e92AbFBb5A624"
 }
