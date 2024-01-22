@@ -1,0 +1,12 @@
+{
+    "name": "ApeBond",
+    "website": "",
+    "description": "ApeBond is a multi-chain bonding protocol committed to building a sustainable DeFi future for projects and communities",
+    "explorer": "https://bscscan.com/token/0x34294AfABCbaFfc616ac6614F6d2e17260b78BEd",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "ABOND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x34294AfABCbaFfc616ac6614F6d2e17260b78BEd"
+}
