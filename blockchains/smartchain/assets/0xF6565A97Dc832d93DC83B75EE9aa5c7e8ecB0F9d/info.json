@@ -1,0 +1,12 @@
+{
+    "name": "Hyve",
+    "website": "https://hyve.works/",
+    "description": "Hyve",
+    "explorer": "https://bscscan.com/token/0xF6565A97Dc832d93DC83B75EE9aa5c7e8ecB0F9d",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "HYVE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF6565A97Dc832d93DC83B75EE9aa5c7e8ecB0F9d"
+}
